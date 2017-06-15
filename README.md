@@ -1,2 +1,2 @@
-# aachat-server
-aachat-server
+# aachat-api
+aachat-api
